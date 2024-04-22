@@ -1,6 +1,6 @@
 version: '3.6'
 services:
-  learnyst_container_2iim:
+  bitespeed:
     image: docker.bitespeed
     container_name: bitespeed-container
     ports:
